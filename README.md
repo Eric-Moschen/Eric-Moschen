@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.b572ff6e-f13f-4746-a4ca-59f57b4ba7d6.png" alt="Banner Éric Moschen Dark Mode Clean" height="220" width="100%"/>
-</p>
-
-
 # 👨‍💻 Éric Augusto Moshcen  
 
 **`Desenvolvedor FullStack`**  
+
 🎓 Estudante de **Engenharia de Software** na Anhanguera/Unopar  
 
 ---
@@ -34,14 +30,6 @@ Sempre em busca de aprender mais para evoluir como profissional!
 
 ---
 
-## 🎯 Objetivos
-- Aprimorar minhas habilidades em **backend e frontend**  
-- Contribuir para projetos open-source  
-- Criar soluções escaláveis e criativas  
-- Trabalhar em equipe e compartilhar conhecimento  
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -62,7 +50,7 @@ Sempre em busca de aprender mais para evoluir como profissional!
 
 ---
 
-## 📫 Vamos nos conectar!
+## 📫 Contatos!
 
 <div align="center">
 
