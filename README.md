@@ -40,11 +40,11 @@ Sempre em busca de aprender mais para evoluir como profissional!
       src="https://github-readme-stats.vercel.app/api?username=Eric-Moschen&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"
   />
 
-  <img
-      alt="Top Langs"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Moschen&layout=compact&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"
-  />
+<img
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Moschen&layout=compact&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"
+/>
 
 </div>
 
