@@ -3,25 +3,17 @@
 </p>
 
 
-
-
-
-
-
 # 👨‍💻 Éric Augusto Moshcen  
 
 **`Desenvolvedor FullStack`**  
-
-📍 São Lourenço do Oeste - SC  
 🎓 Estudante de **Engenharia de Software** na Anhanguera/Unopar  
-💡 Criando soluções que tornam a vida dos usuários mais simples e prática  
 
 ---
 
 ## 🚀 Quem sou eu
 Eu me chamo Éric, tenho 20 anos e gosto muito da área de tecnologia.  
 Meu foco é desenvolver aplicações que resolvam problemas reais e tragam inovação.  
-Sempre em busca de aprender mais e evoluir como profissional!  
+Sempre em busca de aprender mais para evoluir como profissional!  
 
 ---
 
@@ -68,10 +60,6 @@ Sempre em busca de aprender mais e evoluir como profissional!
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eric-Moschen&theme=radical&locale=pt-br" alt="GitHub Streak Stats" />
-</div>
-
 ---
 
 ## 📫 Vamos nos conectar!
@@ -84,11 +72,4 @@ Sempre em busca de aprender mais e evoluir como profissional!
 
 </div>
 
----
 
-✨ *"Tecnologia é transformar ideias em soluções que impactam o mundo."*
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F855A&center=true&vCenter=true&width=500&lines=FullStack+Developer;Apaixonado+por+Tecnologia;Transformando+ideias+em+soluções" alt="Typing animation" />
-</p>
