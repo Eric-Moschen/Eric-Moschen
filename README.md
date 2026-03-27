@@ -54,9 +54,10 @@ Sempre em busca de aprender mais para evoluir como profissional!
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com](https://www.linkedin.com/feed/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Email](https://img.shields.io/badge/Email-2F855A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moschen.dev@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+
 
 </div>
 
