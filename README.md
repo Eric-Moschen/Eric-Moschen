@@ -19,6 +19,7 @@ Sempre em busca de aprender mais para evoluir como profissional!
 ![HTML](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-2F855A?style=for-the-badge&logo=python&logoColor=white)
@@ -32,21 +33,19 @@ Sempre em busca de aprender mais para evoluir como profissional!
 
 ## 📊 Estatísticas do GitHub
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-
+<div align="center">
   <img
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=Eric-Moschen&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=Eric-Moschen&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"
   />
-
-<img
+  <img
     alt="Top Langs"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Moschen&layout=compact&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"
-/>
-
+  />
 </div>
+
 
 ---
 
